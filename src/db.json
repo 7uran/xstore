@@ -1,0 +1,55 @@
+{
+    "spotlightCards": [
+        {
+            "id": 1,
+            "title": "Flow Painting #05",
+            "img": "https://xstore.b-cdn.net/elementor2/nft-crypto/wp-content/uploads/sites/13/2023/08/Single-product-image1-min-600x600.jpg",
+            "price": "0,004450"
+        },
+        {
+            "id": 2,
+            "title": "DrifterShoots Out",
+            "img": "https://xstore.b-cdn.net/elementor2/nft-crypto/wp-content/uploads/sites/13/2023/08/Single-product-image3-min-400x400.jpg",
+            "price": "0,064450"
+        },
+        {
+            "id": 3,
+            "title": "The Working Dead",
+            "img": "https://xstore.b-cdn.net/elementor2/nft-crypto/wp-content/uploads/sites/13/2023/08/Single-product-image5-min-400x400.jpg",
+            "price": "0,003450"
+        },
+        {
+            "id": 4,
+            "title": "Jumping Mushroom",
+            "img": "https://xstore.b-cdn.net/elementor2/nft-crypto/wp-content/uploads/sites/13/2023/08/Single-product-image2-min-400x400.jpg",
+            "price": "0,005202"
+        }
+    ],
+    "allCategoriesCard": [
+        {
+            "id": 1,
+            "title": "Abstract",
+            "img": "https://xstore.b-cdn.net/elementor2/nft-crypto/wp-content/uploads/sites/13/2023/09/abstract-400x260.jpg"
+        },
+        {
+            "id": 2,
+            "title": "Colorful",
+            "img": "https://xstore.b-cdn.net/elementor2/nft-crypto/wp-content/uploads/sites/13/2023/09/colorful-400x260.jpg"
+        },
+        {
+            "id": 3,
+            "title": "Creative",
+            "img": "https://xstore.b-cdn.net/elementor2/nft-crypto/wp-content/uploads/sites/13/2023/09/creative-400x260.jpg"
+        },
+        {
+            "id": 4,
+            "title": "Digital Art",
+            "img": "https://xstore.b-cdn.net/elementor2/nft-crypto/wp-content/uploads/sites/13/2023/09/digital-art-400x260.jpg"
+        },
+        {
+            "id": 5,
+            "title": "Virtual World",
+            "img": "https://xstore.b-cdn.net/elementor2/nft-crypto/wp-content/uploads/sites/13/2023/09/virtual-art-400x260.jpg"
+        }
+    ]
+}
